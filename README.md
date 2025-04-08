@@ -63,7 +63,8 @@ Puis j'ai ajouté manuellement les noms des régions, les mers et les îles manq
 
 **Résultats obtenus:**
 
-<img width="925" alt="Capture d’écran 2025-04-08 à 11 18 39" src="https://github.com/user-attachments/assets/6e15092d-4405-40d1-9fed-9b5ec0bbc4a7" />
+<img width="1192" alt="Capture d’écran 2025-04-08 à 13 21 12" src="https://github.com/user-attachments/assets/46a03500-de3f-48ca-975a-3debb3128fba" />
+
 
 **Sources:**
 
