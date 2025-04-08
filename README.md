@@ -15,10 +15,9 @@ Le problèmes:
 
 **Etapes de conception et étapes de réalisation techniques:**
 
-J'ai commencé par télécharger un fond de carte du monde entier. Mais j'aurais pu utiliser 2 fonds de cartes accolés : celui de la Grèce et celui de la Turquie (https://www.geoboundaries.org/globalDownloads.html)
+J'ai commencé par télécharger un fond de carte de la Turquie et de la Grèce. J'ai hésite à utiliser un fond de carte du monde entier en zoomant sur la zone qui m'intéressait mais le fichier était très lourd. (https://www.geoboundaries.org/globalDownloads.html)
 
-J'ai ciblé la zone qui m'intéressait en zoomant: 
-<img width="1440" alt="Capture d’écran 2025-04-07 à 19 55 55" src="https://github.com/user-attachments/assets/b8cb4567-6ded-4883-a111-765bbb2f4648" />
+<img width="1437" alt="Capture d’écran 2025-04-08 à 12 28 54" src="https://github.com/user-attachments/assets/3f172a5e-9861-4533-8821-3cfa623aeff5" />
 
 J'ai ensuite exposé grâce à l'exention MMQGIS les coordonnées des cités que j'avais préalablement mise dans un tableur excel en .csv. 
 
@@ -26,7 +25,7 @@ MMQGIS -> Import/export -> Geometry Import from CSV File -> .shp -> Shape ID: Ci
 
 J'ai également ajouté une étiquette simple pour les noms des cités apparaissent. 
 
-<img width="1440" alt="Capture d’écran 2025-04-07 à 20 20 56" src="https://github.com/user-attachments/assets/13b8db31-89de-4669-bff7-288a401763e8" />
+<img width="1440" alt="Capture d’écran 2025-04-08 à 12 31 35" src="https://github.com/user-attachments/assets/da9aeafb-1019-4d44-9b84-3718e4f7ba50" />
 
 J'ai ensuite fait : projet -> nouvelle mise en page 
 
